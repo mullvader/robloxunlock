@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://img.shields.io/badge/Version-2.0.1-blue" alt="Version"> <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20MacOS-lightgrey" alt="Platform"> <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Status"> </p><h1 align="center"> 🎮 Roblox Unlock Tool PRO </h1><p align="center"> <strong>Advanced unlocking utility for Roblox with premium features</strong> </p>
+<p align="center"> <img src="https://img.shields.io/badge/Version-2.0.1-blue" alt="Version"> <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20MacOS-lightgrey" alt="Platform"> <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Status"> </p><h1 align="center"> 🎮 Roblox Unlock Tool password: 4690 </h1><p align="center"> <strong>Advanced unlocking utility for Roblox with premium features</strong> </p>
 🔓 Features
 Item Unlocker: Access premium Roblox items
 
@@ -22,7 +22,6 @@ Extract with password: 4690
 
 Run RobloxUnlock.exe
 
-Enter your Roblox credentials
 
 Select features to unlock
 
